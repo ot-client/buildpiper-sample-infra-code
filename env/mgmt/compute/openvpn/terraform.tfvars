@@ -1,0 +1,12 @@
+region           = "ap-south-1"
+instance_count   = 1
+ami_id           = "ami-048edb8185f22a819"
+instance_type    = "t3a.micro"
+public_ip        = true
+key_name         = "transbnk-devops"
+volume_size      = 10
+volume_type      = "gp3"
+encrypted_volume = true
+ec2_name         = "transbnk-devops-openvpn"
+sg_name          = "transbnk-devops-openvpn-sg"
+ssh_ips          = ["122.173.61.2/32"]

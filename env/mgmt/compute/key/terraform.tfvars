@@ -1,0 +1,3 @@
+region = "ap-south-1"
+key_name = "transbnk-devops"
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCdXZWBXfIl+NviQ6Jhd2ITeAL//qNXbxij++BO6uFPvP1XxldTsWtKurmQY0F2zgR4iS3/99dfGZ3gBgdbNPqfezwJBr6TRMoSQcz6xwk+R5+jFf+UhcrSSPqUFWMmaq5gY7i7L5Hzl6oekxn9cTaQDAtXPKTisarmDnRxPtIgxcQO6D/CelMHga+A5hzv7plqyUjRBqzrNKhyv2wKnzGNY1FvZZPR1Jv0J74ZWuAEbfL+9vCWtBj48KngobU31RO/7jWD1KZKtUl8AaegQ0eG6LsTaLKxr1rcM0odBTwe/E/o5DkK1VsTND5ECKxP0ZHLy1A+BiCgZdI11/LIUtHKsJVNIjvQAM0BW0iL+NjIrl/Qfxv6o9F74gR+1WkjtKqc9jrbNi8tY8izA+8azyyS4FB4ZTZGdEJew+t1EQZyKDxU9Me6XRZ5wqNpcQN+l5YnzSrIwMKHbwhOz333PjVSAWqbKH/KS7PbqtxeorOORq0UX8j/nFW0QxshW6N6JZk= mgmt@transbnk"
